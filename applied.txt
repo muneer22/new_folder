@@ -1,10 +1,10 @@
 
-I am an intern at Applied
+I am AN <Student> at Applied
 I LIVE in srinagar.
-I have done my bacholars from Islamic University
+I have done my bacholars from <ISLAMIC> University
 Intrest Cricket & Football.
 
-I am an intern at Applied
+I am AN <Student> at Applied
 I LIVE in srinagar.
-I have done my bacholars from Islamic University
+I have done my bacholars from <ISLAMIC> University
 
